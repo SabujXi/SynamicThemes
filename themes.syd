@@ -1,0 +1,6 @@
+repositories: {
+    persona: {
+        url: https://github.com/SabujXi/Persona
+        hosting: github
+    } 
+}
